@@ -14,7 +14,7 @@ The analysis utilizes data from the following public health and census sources:
 
 * **COPD Prevalence & Smoking/Diabetes Rates**: [Behavioral Risk Factor Surveillance System (BRFSS)](https://www.cdc.gov/brfss/)
 * **Poverty Rates**: [U.S. Census Bureau (American Community Survey)](https://www.census.gov/programs-surveys/acs)
-* **PM$_{2.5}$ Concentrations**: [National Environmental Public Health Tracking Network](https://www.google.com/search?q=https://www.cdc.gov/nceh/tracking/)
+* **PM2.5 Concentrations**: [National Environmental Public Health Tracking Network](https://www.google.com/search?q=https://www.cdc.gov/nceh/tracking/)
 
 ## Model Specification
 
